@@ -11,13 +11,13 @@
 .progress_bar_title {
   color: hsl(0, 0%, 0%);
   display: inline;
-  font-size: 13px;
+  font-size: 20px;
   font-weight: 900;
   text-transform: uppercase;
 }
 .progress_number {
   color: #a2a1a4;
-  font-size: 13px;
+  font-size: 16px;
   font-weight: 900;
   position: absolute;
   right: 0;
@@ -26,9 +26,18 @@
 }
 .progress_bar_holder {
   background: #d6d9dc;
-  margin-top: 5px;
+  margin-top: 10px;
 }
 .progress_bar_content {
-  height: 5px;
+  height: 10px;
   transition: width 1s ease-in-out 0s;
+}
+.container{
+  display: grid;
+  padding-left: 70px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: whitesmoke;
+  padding-right: 100px;
+  word-spacing: 50px;
 }
