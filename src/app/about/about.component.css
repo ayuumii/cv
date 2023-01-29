@@ -1,0 +1,15 @@
+
+.back{
+  width: 700px;
+  height: 800px;
+  margin: 0px auto;
+  background-color: floralwhite;
+  padding-left: 10px;
+
+}
+.circular--square { 
+  border-radius: 50%; 
+  height: 20%;
+  length: 20%;
+  margin: 10px;
+}
