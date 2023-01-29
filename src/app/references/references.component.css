@@ -1,0 +1,10 @@
+.text{
+  font-size: 22px;
+  text-align: center;
+}
+.container{
+  background-color: #ADB7BE;
+  padding-left: 70px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
